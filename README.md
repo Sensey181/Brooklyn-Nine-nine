@@ -1,3 +1,5 @@
+Attention ! Il manque quelques fichiers à ce repo car trop lourds.
+
 # Brooklyn nine-nine - Projet IA26
 
 ## Contexte 💥
