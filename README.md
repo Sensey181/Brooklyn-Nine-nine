@@ -1,6 +1,6 @@
 Attention ! Il manque quelques fichiers à ce repo car trop lourds.
 
-# Brooklyn nine-nine - Projet IA26
+# Brooklyn nine-nine
 
 ## Contexte 💥
 La sécurité routière demeure une contrainte majeure des pouvoirs publics. Chaque année, des milliers d'accidents corporels (un accident survenu sur une voie ouverte à la circulation publique, impliquant au moins un véhicule et ayant fait au moins une victime ayant nécessité des soins) surviennent sur les routes, entraînant des blessures graves, des handicaps ou des décès. Pour mieux prévenir ces drames et optimiser les interventions des services de secours, il est essentiel de comprendre les facteurs qui influencent la gravité des accidents.
