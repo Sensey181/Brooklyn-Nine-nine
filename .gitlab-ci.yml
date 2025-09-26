@@ -1,0 +1,9 @@
+stages:
+  - unit-test
+
+unit-test-python:
+  stage: unit-test
+  image: python:3.11
+  script:
+    - pip install pytest scikit-learn
+    #- pytest
