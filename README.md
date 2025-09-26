@@ -1,4 +1,4 @@
-Attention ! Il manque quelques fichiers à ce repository car trop lourds. Si le projet vous intéresse, vous pouvez aussi regarder la présentation pptx à la racine du repo.
+Attention ! Il manque quelques fichiers à ce repository car trop lourds. Si le projet vous intéresse, vous pouvez aussi regarder la présentation PDF à la racine du repo.
 
 # Brooklyn nine-nine
 
